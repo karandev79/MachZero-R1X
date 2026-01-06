@@ -58,11 +58,9 @@
 | Arduino USB Cable | 1 | $0.33 | [Link](https://makerbazar.in/products/arduino-usb-cable-a-to-b-blue-black-40inch-100cm?variant=48251152072944) |
 | ATmega328P nano | 1 | $2.11 | [Link](https://robu.in/product/atmega328p-5v-nano-v3-0-development-board-16mhz-ch340-type-c/) |
 | Flat Ribbon Cable | 1 | $0.71 | [Link](https://robu.in/product/multicolor-flat-ribbon-cable-10-cond-1meter/) |
-| Jumper Wires | 1 | $1.22 | [Link](https://robu.in/product/female-female-dupont-line-40-pin-30cm/) [Link](https://robu.in/product/male-to-female-jumper-wires-40-pin-30cm/) |
+| Jumper Wires | 1 | $1.22 | [Link](https://robu.in/product/female-female-dupont-line-40-pin-30cm/), [Link](https://robu.in/product/male-to-female-jumper-wires-40-pin-30cm/) |
 | 2x 18650 Cell Box | 1 | $0.22 | [Link](https://robu.in/product/2-x-18650-cell-box-without-cover/#tab-specification) |
 | 2x 18650 Cell Box with Power Plug | 1 | $0.50 | [Link](https://robu.in/product/2-x-18650-black-battery-holder-with-dc-power-plug/#tab-specification) |
-
-
-Shipping charges | |  $0.54 |
-Total | | $23.26 |
+Shipping charges | - |  $0.54 | -
+Total | - | $23.26 | -
 ----
