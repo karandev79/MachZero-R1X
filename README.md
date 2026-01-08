@@ -64,8 +64,6 @@
 | Jumper Wires | 1 | $1.22 | [Link](https://robu.in/product/female-female-dupont-line-40-pin-30cm/), [Link](https://robu.in/product/male-to-female-jumper-wires-40-pin-30cm/) |
 | 2x 18650 Cell Box | 1 | $0.22 | [Link](https://robu.in/product/2-x-18650-cell-box-without-cover/#tab-specification) |
 | 2x 18650 Cell Box with Power Plug | 1 | $0.50 | [Link](https://robu.in/product/2-x-18650-black-battery-holder-with-dc-power-plug/#tab-specification) |
-
-
 Shipping charges | - |  $0.0 | -
 Total | - | $29.46 | -
 ----
