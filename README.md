@@ -57,10 +57,15 @@
 | HC-05 6-Pins | 1 | $2.22 | [Link](https://makerbazar.in/products/hc-series-bluetooth-module-wireless-rs232-ttl-to-uart-for-arduino?variant=48251017134320) |
 | Arduino USB Cable | 1 | $0.33 | [Link](https://makerbazar.in/products/arduino-usb-cable-a-to-b-blue-black-40inch-100cm?variant=48251152072944) |
 | ATmega328P nano | 1 | $2.11 | [Link](https://robu.in/product/atmega328p-5v-nano-v3-0-development-board-16mhz-ch340-type-c/) |
+| 3.6V Lithium-Ion 18650 Rechargeable Cells | 4 | $6.9 | [Link](https://makerbazar.in/products/lithium-ion-18650-rechargeable-cell-3-7v-3c?variant=48251183268080) |
 | Flat Ribbon Cable | 1 | $0.71 | [Link](https://robu.in/product/multicolor-flat-ribbon-cable-10-cond-1meter/) |
+| AMS1117 5V Step-Down Power Supply Module | 2 | $0.34 | [Link](https://robu.in/product/ams1117-5v-step-power-supply-module/) |
+| Pitch male Berg Strip | 1 | $0.28 | [Link](https://robu.in/product/2mm-pitch-male-berg-strip-40x1-2pcs/) |
 | Jumper Wires | 1 | $1.22 | [Link](https://robu.in/product/female-female-dupont-line-40-pin-30cm/), [Link](https://robu.in/product/male-to-female-jumper-wires-40-pin-30cm/) |
 | 2x 18650 Cell Box | 1 | $0.22 | [Link](https://robu.in/product/2-x-18650-cell-box-without-cover/#tab-specification) |
 | 2x 18650 Cell Box with Power Plug | 1 | $0.50 | [Link](https://robu.in/product/2-x-18650-black-battery-holder-with-dc-power-plug/#tab-specification) |
-Shipping charges | - |  $0.54 | -
-Total | - | $23.26 | -
+
+
+Shipping charges | - |  $0.0 | -
+Total | - | $29.46 | -
 ----
